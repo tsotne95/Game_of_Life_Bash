@@ -6,4 +6,4 @@ implementatin in *Bash*
 
 usage:  
 **./GOL.sh**  
-[![asciicast](https://asciinema.org/a/bv6qdzilcb03vl8xzjiv6gcle.png)](https://asciinema.org/a/bv6qdzilcb03vl8xzjiv6gcle)
+[![asciicast](https://asciinema.org/a/0sf791n5wbdwp9378v2w57uci.png)](https://asciinema.org/a/0sf791n5wbdwp9378v2w57uci)
