@@ -84,7 +84,7 @@ function GOL()
 		do
 			paint
 			evolve
-			sleep .5
+			sleep .000005
 		done
 }
 
